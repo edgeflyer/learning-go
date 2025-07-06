@@ -7,3 +7,5 @@ this third commit
 commit in beta branch
 
 commit beta with no-ff
+
+merge conflict beta
